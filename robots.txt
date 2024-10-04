@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://viciei.github.io/kZR/sitemap.kZR.gz
